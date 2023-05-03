@@ -12,7 +12,7 @@ requirements:
   run:
     - dask
     - distributed ==2023.4.1
-    - dask-gateway ==2023.1.1
+    - dask-gateway ==2022.10.0
 
 test:
   imports:
