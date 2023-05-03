@@ -10,7 +10,7 @@ build:
 
 requirements:
   run:
-    - dask
+    - dask >= 2023.4.1
     - distributed ==2023.4.1
     - dask-gateway ==2022.10.0
 
