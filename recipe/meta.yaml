@@ -11,8 +11,8 @@ build:
 requirements:
   run:
     - dask
-    - distributed ==2022.11.1
-    - dask-gateway ==2022.10.0
+    - distributed
+    - dask-gateway ==2023.9.0
 
 test:
   imports:
