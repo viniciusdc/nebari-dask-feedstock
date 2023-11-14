@@ -10,8 +10,8 @@ build:
 
 requirements:
   run:
-    - dask
-    - distributed
+    - dask ==2023.11.0
+    - distributed ==2023.11.0
     - dask-gateway ==2023.9.0
 
 test:
