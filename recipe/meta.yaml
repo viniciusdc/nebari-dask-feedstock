@@ -1,4 +1,4 @@
-{% set version = "2023.11.1" %}
+{% set version = "2023.12.1" %}
 
 package:
   name: nebari-dask
@@ -10,8 +10,7 @@ build:
 
 requirements:
   run:
-    - dask ==2023.11.0
-    - distributed ==2023.11.0
+    - dask
     - dask-gateway ==2023.9.0
 
 test:
