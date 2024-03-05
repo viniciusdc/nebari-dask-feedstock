@@ -1,4 +1,4 @@
-{% set version = "2024.1.1" %}
+{% set version = "2024.3.1" %}
 
 package:
   name: nebari-dask
@@ -12,6 +12,7 @@ requirements:
   run:
     - dask
     - dask-gateway ==2023.9.0
+    - ipywidgets >=8.0.0
 
 test:
   imports:
@@ -30,3 +31,4 @@ extra:
     - iameskild
     - trallard
     - dcmcand
+    - marcelovilla
