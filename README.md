@@ -147,4 +147,5 @@ Feedstock Maintainers
 * [@marcelovilla](https://github.com/marcelovilla/)
 * [@trallard](https://github.com/trallard/)
 * [@viniciusdc](https://github.com/viniciusdc/)
+* [@Adam-D-Lewis](https://github.com/Adam-D-Lewis/)
 

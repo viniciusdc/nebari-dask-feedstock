@@ -1,4 +1,4 @@
-{% set version = "2024.3.1" %}
+{% set version = "2024.3.2" %}
 
 package:
   name: nebari-dask
@@ -31,3 +31,4 @@ extra:
     - trallard
     - dcmcand
     - marcelovilla
+    - Adam-D-Lewis
