@@ -1,4 +1,4 @@
-{% set version = "2024.3.2" %}
+{% set version = "2024.3.3" %}
 
 package:
   name: nebari-dask
